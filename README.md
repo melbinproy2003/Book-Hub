@@ -18,9 +18,9 @@ Book Hub is a web application designed to facilitate efficient and organized lib
 
 ### Screenshots
 
-[Book Hub](/screenshot/admin%20home.png)
+![Book Hub](/screenshot/admin%20home.png)
 Admin HomePage
-[Book Hub](/screenshot/user%20home.png)
+![Book Hub](/screenshot/user%20home.png)
 User HomePage
 
 ## Contact
